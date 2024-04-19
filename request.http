@@ -2,8 +2,4 @@ GET localhost:8080/mealplanner/day
 
 
 ###
-GET localhost:8080
-
-
-###
-GET localhost:8080/mealplanner/generate
+GET localhost:8080/mealplanner/week

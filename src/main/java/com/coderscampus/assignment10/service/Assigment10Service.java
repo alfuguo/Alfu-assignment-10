@@ -12,7 +12,7 @@ public class Assigment10Service {
     @Value("${spoonacular.urls.base}")
     private String spoonacularUrls;
 
-    @Value("${spoonacular.urls.mealpla  n}")
+    @Value("${spoonacular.urls.mealplan}")
     private String spoonacularMealplan;
 
     @Value("${spoonacular.api.key}")
